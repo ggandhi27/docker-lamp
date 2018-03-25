@@ -4,6 +4,5 @@
 # To use your own website instead, please refer to the documentation:
 # https://registry.hub.docker.com/u/fauria/lamp/
 
-phpinfo();
-
+echo "Yay! Your Container is successfully launched."
 ?>
